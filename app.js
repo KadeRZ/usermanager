@@ -4,21 +4,21 @@ const path = require('path')
 let allUsers = {
     "users": [
         {
-            "name": "Kolbe",
-            "userId": "kolbejz",
-            "email": "kolbejz@gmail.com",
-            "age": "18"
-        },
-        {
             "name": "Kade",
             "userId": "kaderz",
             "email": "kaderz@gmail.com",
+            "age": "18"
+        },
+        {
+            "name": "Kolbe",
+            "userId": "kolbejz",
+            "email": "kolbejz@gmail.com",
             "age": 18
         },
         {
-            "name": "Zach",
-            "userId": "zachtheman",
-            "email": "zach@gmail.com",
+            "name": "Cameron",
+            "userId": "genhemmy",
+            "email": "cameronhoyt@gmail.com",
             "age": 20
         }
     ]
